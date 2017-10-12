@@ -1,4 +1,4 @@
-# EdgeX Foundry Export Services
+# EdgeX Foundry Device Services
 [![Go Report Card](https://goreportcard.com/badge/github.com/drasko/edgex-device)](https://goreportcard.com/report/github.com/drasko/edgex-device)
 [![license](https://img.shields.io/badge/license-Apache%20v2.0-blue.svg)](LICENSE)
 
